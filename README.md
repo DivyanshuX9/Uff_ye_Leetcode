@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
