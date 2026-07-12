@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
