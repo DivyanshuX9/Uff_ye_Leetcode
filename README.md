@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
