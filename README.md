@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [0131-palindrome-partitioning](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1094-car-pooling) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
