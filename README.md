@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Counting Sort
 |  |
