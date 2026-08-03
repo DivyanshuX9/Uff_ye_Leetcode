@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1094-car-pooling](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1094-car-pooling](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
