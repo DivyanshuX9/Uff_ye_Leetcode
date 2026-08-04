@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0136-single-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0064-minimum-path-sum) |
 ## Linked List
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1094-car-pooling](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1094-car-pooling) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
