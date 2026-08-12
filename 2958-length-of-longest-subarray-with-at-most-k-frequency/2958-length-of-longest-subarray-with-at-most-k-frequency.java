@@ -7,7 +7,7 @@ class Solution {
             count=gg.getOrDefault(nums[r],0)+1;
             gg.put(nums[r],count);
 
-            while(l<nums.length && gg.get(nums[r])>k){
+            while(gg.get(nums[r])>k){
                 gg.put(nums[l],gg.get(nums[l])-1);
                 l++;
             }
