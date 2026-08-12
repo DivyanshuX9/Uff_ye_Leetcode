@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3731-find-missing-elements) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3310-remove-methods-from-project) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
