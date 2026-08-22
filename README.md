@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Divide and Conquer
 |  |
