@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0018-4sum) |
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
