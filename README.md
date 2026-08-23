@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1927-sum-game](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -165,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
