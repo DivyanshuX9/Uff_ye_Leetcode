@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1927-sum-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1143-longest-common-subsequence) |
