@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0836-rectangle-overlap) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1291-sequential-digits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -258,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
