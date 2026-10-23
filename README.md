@@ -263,15 +263,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0207-course-schedule) |
 | [3310-remove-methods-from-project](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0207-course-schedule) |
 | [3310-remove-methods-from-project](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Sliding Window
 |  |
@@ -316,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
