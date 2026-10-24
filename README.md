@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DivyanshuX9/Uff_ye_Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
