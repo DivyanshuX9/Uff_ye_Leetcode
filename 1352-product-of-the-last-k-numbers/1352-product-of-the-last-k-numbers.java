@@ -10,7 +10,7 @@ class ProductOfNumbers {
     public int getProduct(int k) {
         int l=gg.size();
         int prod=1;
-        for(int a=gg.size()-1;a>=0 && a>=l-k;a--){
+        for(int a=l-1;a>=0 && a>=l-k;a--){
             prod*=gg.get(a);
         }
         return prod;
